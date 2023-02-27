@@ -11,6 +11,7 @@ Navigate to the project directory using a terminal or command prompt.
 Install the necessary dependencies by running pip install -r requirements.txt.
 Run the app with streamlit run app.py.
 Access the app in your web browser by visiting http://localhost:8501.
-Usage
+
+###Usage
 
 The Heroku app allows users to interact with the GSS dataset by filtering and aggregating the data, and visualizing the results. Users can select columns to group the data by, and choose from several visualization options such as pie charts and correlation matrices.
